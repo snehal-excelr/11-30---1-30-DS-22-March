@@ -1,0 +1,15 @@
+Please find the URLS for model deployment using streamlit. Use the below urls for reference only, go through the urls and try to deploy model according to requirement.
+
+https://medium.com/analytics-vidhya/deploy-your-first-end-to-end-ml-model-using-streamlit-51cc486e84d7
+
+https://365datascience.com/tutorials/machine-learning-tutorials/how-to-deploy-machine-learning-models-with-python-and-streamlit/
+
+https://bamblebam.medium.com/how-to-deploy-your-machine-learning-model-using-streamlit-925368b266ad#:~:text=It%20is%20very%20easy%20to,this%20using%20the%20official%20docs.
+
+https://www.analyticsvidhya.com/blog/2021/10/machine-learning-model-deployment-using-streamlit/
+
+https://towardsdatascience.com/deploying-ml-models-using-streamlit-5d6212453bdd
+
+https://towardsdatascience.com/deploying-ml-models-using-streamlit-5d6212453bdd
+
+https://www.evoketechnologies.com/blog/how-to-deploy-machine-learning-models-using-streamlit/
